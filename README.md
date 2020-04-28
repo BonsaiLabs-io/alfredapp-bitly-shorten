@@ -12,7 +12,7 @@ Shorten links with this Alfred workflow.
 
 ### Installing
 
-* Download the workflow.
+* Download the workflow [here](https://github.com/victor-bonsai-labs/alfredapp-bitly-shorten/raw/master/bitly-shorten.alfredworkflow).
 
 ### Executing program
 
