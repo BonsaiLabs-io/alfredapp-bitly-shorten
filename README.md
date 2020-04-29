@@ -20,7 +20,7 @@ Open Alfred and type `bitly`
 
 ## Help
 
-Post issues here https://github.com/bonsai-labs-io/alfredapp-bitly-shorten/issues
+Post issues [here](https://github.com/bonsai-labs-io/alfredapp-bitly-shorten/issues)
 
 ## Authors
 
